@@ -11,8 +11,8 @@ A gobblegum is a consumable booster-type item in Call of Duty: Black Ops 3 zombi
 ## File Descriptions
 
 
-CompanionConfig.js: allows users to configure the app, namely entering the five gobblegums they want to keep track of.
+**CompanionConfig.js**: allows users to configure the app, namely entering the five gobblegums they want to keep track of.
 
-CompanionWake.js: functionality written to ensure that users have an option to set their device to "no sleep" mode, allowing the companion app to stay awake. This is largely powered by a script written by github user 'richtr' called 'NoSleep.js'. His github page is cited within this file.
+**CompanionWake.js**: functionality written to ensure that users have an option to set their device to "no sleep" mode, allowing the companion app to stay awake. This is largely powered by a script written by github user 'richtr' called 'NoSleep.js'. His github page is cited within this file.
 
-Companion.js: core app logic that monitors gobblegum probability and allows users to "consume" a gobblegum.
+**Companion.js**: core app logic that monitors gobblegum probability and allows users to "consume" a gobblegum.

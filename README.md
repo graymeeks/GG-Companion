@@ -7,7 +7,7 @@
 
 A gobblegum is a consumable booster-type item in Call of Duty: Black Ops 3 zombies mode. You select five unique gobblegums before starting a match, and during the match you can receive up to three of those per round. The first gobblegum is free, and the second two are priced according to how many "rounds" or "waves" you have made it into the game. Gobblegums follow a uniform probability pattern, meaning that if you roll a particular gobblegum you won't roll it again until all the other four gobblegums have been rolled. Once the five distinct gobblegums have been consumed, all gums become available to roll once again. 
 
-<br>
+<br><br>
 ## File Descriptions
 
 
